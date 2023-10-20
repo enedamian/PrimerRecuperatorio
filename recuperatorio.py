@@ -46,9 +46,9 @@ def filtrarLista(lista, longitud):
 # 3° quiso comprar 15 pero solo quedaban 2.
 # 4° no pudo comprar porque no habia mas.
 # Imprimir por pantalla la información de las ventas realizadas indicando nombre comprador y cantidad de paquetes y quienes se quedaron sin poder comprar.
-# ruta archivo para usar F5: PrimerParcial\compradores.csv
+# ruta archivo para usar F5: PrimerRecuperatorio\compradores.csv
 
-def procesarVentas(compradores, cantidadPaquetesDisponibles):
+def procesarVentas(rutaArchivoCompradores, cantidadPaquetesDisponibles):
     
     return 0
 
